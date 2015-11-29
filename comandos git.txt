@@ -1,0 +1,40 @@
+aula 
+00 ssh-keygen p gera chave de autenticaçãp
+cd nome da pasta
+volta cd ..
+limpa tela clear
+4 git init criar repositórios
+5 git startus
+6 para adiciona arquivos  git add nome do arquivo
+7 para adiciona arquivos  git add *.estensão do arquivo 
+8 para adiciona arquivos  git add . todos os arquivo
+9 git commit -m "mensagem"
+10 gitignore para o git igninarar arquivos nome do arquiva se for pasta  nome/ 
+11 git commit -a -m "mensagem" se quiser pula o comando add
+12 git diff para ver o q foi alterado
+13  git diff --staged para ver o q foi alterado
+14 git log histórico de commit
+15 git commit --amend -m "mensagem"
+16 git reset head arquivo para remove
+17 git checkout -- arquivo descarta alterações
+18 git rm nome doarquivo para deletar arquivos
+19 git tag ver as versõs do projeto
+20 git tag -a nome para criar tags -m "mensagem"
+21 git tag -a nome chave do commit para cria tag de um commit
+22 git show inf sobre a tag nome
+23 git checkout nome da tag para trocar os arqivos
+24 git checkout master para voltar ao padrão
+25 git tag -d deletar nome tag
+27 git branch nome para cria branch
+28 git checkout  nome do branch para entra
+
+29 git checkout -b  nome do branch para criar e entra
+30 git merge branch origem para copia arquivo de um brach p outro
+31 git branch lista totos branchs
+32 delete branche git -d nome
+REDE
+33 git init --bare bota em rede
+34 git push origen master enviar para o servido
+35 git pull origen master pega os arquivos de trabalho
+36 git fetch origen branch onde ficara o arquivo
+ahmia.fi
