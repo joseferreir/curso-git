@@ -1,0 +1,90 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 08/6/2015, 07:28:55
+    Author     : José
+*/
+
+*{margin: 0;padding: auto}
+body{
+    background-image : url("../Imag/CAJAZEIRAS_FACHADALESTE.JPG");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.conteudo{
+    width: 100%;
+    height: auto;
+    font-family: trebuch MS;
+    padding-top: 120px;
+    overflow: hidden;
+}
+.conteudo .contato{
+    margin: 0 auto;
+    min-width: 30px;
+    width: min-content;
+    display: compact;
+    padding: 10px;
+    position: relative;
+    text-align: center;
+    background: #ccc;
+    border-radius:14px;
+    
+}
+.contato img{
+    width: 30%;
+    height: 100px;
+    position: relative;
+    margin-top: 15px;
+    border-radius: 5px 5px
+
+}
+.contato a{
+    text-decoration: none ;
+    color: #00cc00;
+    font-size: 14px;
+    position: relative;
+    color:  #00cc00;
+}
+.contato form{
+    padding-top: 5px;
+    margin: 0 auto;
+    width: 20em;
+    height: 10em;
+    position: relative;
+    text-align: center;
+    border-radius: 12px 10px ;
+     border-radius: 5px
+
+}
+.contato form input{
+    border-radius: 4px 3px;
+    position: relative;
+    width: 95%;
+    height: 2em;
+    margin-top:  0.2em;
+    font-size: 1em;
+    display: block;
+    text-align:  center;
+    left: 0.5em;
+     border-radius: 5px
+}
+
+#enviar {
+    margin-top: 0.3em;
+    display: block;
+    font-size: 1.4em;
+    border-radius: 2px;
+    background:  #00cc00;
+    color: #fff;
+    position: relative;
+    text-align: center;
+    width: 95%;
+    height: 2em;
+    left: 0.4em;
+    cursor: pointer;
+    border-radius: 5px
+}
+
